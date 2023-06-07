@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main-header{
+    background-color: #ccc;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    position: relative;
+}
+.logo img{
+    vertical-align: middle;
+}
+#menu-switch{
+    display: none;
+}
+.main-nav a{
+    display: block;
+    padding: 10px;
+    color: #fff;
+    text-decoration: none;
+}

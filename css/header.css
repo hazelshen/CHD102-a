@@ -21,3 +21,7 @@
     color: #fff;
     text-decoration: none;
 }
+
+.main-nav a{
+    background-color: red;
+}
